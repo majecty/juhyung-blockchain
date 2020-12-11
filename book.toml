@@ -1,0 +1,6 @@
+[book]
+authors = ["ParkJuhyeong"]
+language = "en"
+multilingual = false
+src = "src"
+title = "주형-블록체인"
